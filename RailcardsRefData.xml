@@ -1,0 +1,1983 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RailcardsReferenceData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1">
+  <Railcard>
+    <Name>Child Discount</Name>
+    <Code>   </Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Under 16-year old</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TWO TOGETHER R/CARD</Name>
+    <Code>2TR</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Two Together Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TWO TOGETHER RCD AGC</Name>
+    <Code>2TS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Two Together Railcard (Annual Gold Card)</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Accompanied Child Discount</Name>
+    <Code>ACD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ANGLIA INTL GROUP</Name>
+    <Code>AIG</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ANGLIA FLAT FARE</Name>
+    <Code>ANG</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>MAN APT STAFF DISC</Name>
+    <Code>ASD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Manchester Airport Staff Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR DISABLED PERSONS.</Name>
+    <Code>AT1</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR REP CHG DIS PERS.</Name>
+    <Code>AT2</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR REP DIS PERS.</Name>
+    <Code>AT3</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR DISABLED PERSONS.</Name>
+    <Code>AT4</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR REP CHG DIS PERS.</Name>
+    <Code>AT5</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR REP DIS PERS.</Name>
+    <Code>AT6</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>AYLESBURY VALE</Name>
+    <Code>AVC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CS B2B DISCOUNT</Name>
+    <Code>B2B</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>CS B2B Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EMT DISCOUNT C</Name>
+    <Code>BA1</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EMT DISCOUNT B</Name>
+    <Code>BA2</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EMT DISCOUNT A</Name>
+    <Code>BA3</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EMT DISCOUNT D</Name>
+    <Code>BA4</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EMT DISCOUNT E</Name>
+    <Code>BA5</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SCR CORP DISCOUNT 01</Name>
+    <Code>BB1</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Scotrail Corporate Discount 01</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SCR CORP DISCOUNT 02</Name>
+    <Code>BB2</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Scotrail Corporate Discount 02</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SCR CORP DISCOUNT 3</Name>
+    <Code>BB3</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>BRISTOL UNI 10%</Name>
+    <Code>BU1</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>BRISTOL UNI 20%</Name>
+    <Code>BU2</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>BUCKS CC DISCOUNT</Name>
+    <Code>BUD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>International Reduced Rate Card Child "50%"</Name>
+    <Code>C01</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>International Reduced Rate Card Child "75%"</Name>
+    <Code>C02</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Reduced Rate Identity Card Child</Name>
+    <Code>C03</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CHARITYLINE 20</Name>
+    <Code>C20</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CLUB 50</Name>
+    <Code>C50</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Club 50</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CHARNWOOD 50% DISC</Name>
+    <Code>CBC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CRAVEN COLLEGE 25%</Name>
+    <Code>CCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Craven College 25%</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CANNOCK CONCESSION</Name>
+    <Code>CCK</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CambrianRailcard</Name>
+    <Code>CRC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Cambrian Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Cotswold Line RCD</Name>
+    <Code>CTD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Cotswold Line Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>International Reduced Rate Card Adult "50%"</Name>
+    <Code>D01</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>International Reduced Rate Card Adult "75%"</Name>
+    <Code>D02</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Reduced Rate Identity Card Adult</Name>
+    <Code>D03</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CORPORATE E</Name>
+    <Code>D05</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CORPORATE F</Name>
+    <Code>D08</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Corporate A</Name>
+    <Code>D10</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WEB DISCOUNT ADULT</Name>
+    <Code>D11</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Web Discount Adult</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CORPORATE DISCOUNT S</Name>
+    <Code>D13</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Corporate Discount S</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Corporate B</Name>
+    <Code>D15</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Corporate C</Name>
+    <Code>D20</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CORPORATE G</Name>
+    <Code>D23</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Corporate G</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Corporate D</Name>
+    <Code>D25</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CONCESS 30%</Name>
+    <Code>D30</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CONCESSION 34%</Name>
+    <Code>D34</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Concession 34% for Visually Impaired or Wheelchair User</OJPDisplayName>
+    <RSPDisplayName>Concession 34%</RSPDisplayName>
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CORPORATE H</Name>
+    <Code>D47</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Corporate H</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CONCESSION 50%</Name>
+    <Code>D50</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Concession 50% for Visually Impaired or Wheelchair User</OJPDisplayName>
+    <RSPDisplayName>Concession 50%</RSPDisplayName>
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WEB DISCOUNT CHILD</Name>
+    <Code>D55</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Web Discount Child</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CONCESSION 75%</Name>
+    <Code>D75</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Wheelchair using child - 75%</OJPDisplayName>
+    <RSPDisplayName>Concession 75%</RSPDisplayName>
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Discount Adult A</Name>
+    <Code>DAD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Discount Adult B</Name>
+    <Code>DAT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DEREHAM BUS 16-19</Name>
+    <Code>DBK</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DERBYSHIRE B-LINE</Name>
+    <Code>DBL</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Devon &amp; Cornwall Gold Card</Name>
+    <Code>DCG</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Devon &amp; Cornwall Gold Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Durham Concessionary Travel Permit</Name>
+    <Code>DCP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Devon &amp; Cornwall Railcard</Name>
+    <Code>DCR</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT AUTHORITY</Name>
+    <Code>DCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 5</Name>
+    <Code>DGU</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 10</Name>
+    <Code>DGV</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 15</Name>
+    <Code>DGW</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 20</Name>
+    <Code>DGX</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 50</Name>
+    <Code>DGY</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GREAT WESTERN 75</Name>
+    <Code>DGZ</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Disabled Child Railcard</Name>
+    <Code>DIC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR DISABLED PERSONS</Name>
+    <Code>DIP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Disabled Adult Railcard</Name>
+    <Code>DIS</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Disabled Persons Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR REP CHG DIS PERS</Name>
+    <Code>DIT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>1YR REP DIS PERS</Name>
+    <Code>DIU</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR DISABLED PERSONS</Name>
+    <Code>DIV</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR REP CHG DIS PERS</Name>
+    <Code>DIW</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>3YR REP DIS PERS</Name>
+    <Code>DIX</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Dales Railcard</Name>
+    <Code>DRD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Dales Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DERBYSHIRE WAYFARER</Name>
+    <Code>DWF</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CHILTERN CORPORATE A</Name>
+    <Code>E07</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CHILTERN CORPORATE B</Name>
+    <Code>E10</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>CHILTERN CORPORATE C</Name>
+    <Code>E12</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>IEC CORPORATE J 30%</Name>
+    <Code>E30</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EDUCATIONAL CONCESS</Name>
+    <Code>EDU</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ENCTS 34% DISCOUNT</Name>
+    <Code>ENC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EASIT GWR</Name>
+    <Code>EST</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>FGW Easit</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Esk Valley Railcard</Name>
+    <Code>EVC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FAMILY &amp; FRIENDS RCD</Name>
+    <Code>FAM</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Family &amp; Friends Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FAM&amp; FRIENDS RCD AGC</Name>
+    <Code>FAN</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Family &amp; Friends Railcard (Annual Gold Card)</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FCC SEASON PASS</Name>
+    <Code>FCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FIFE CONCESSIONARY</Name>
+    <Code>FCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FREEDOM PASS</Name>
+    <Code>FDM</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FGW EASIT OXFORD</Name>
+    <Code>FEO</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>FGW Easit Oxford</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FIP DISCOUNT 50%</Name>
+    <Code>FIP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>FIP Discount 50%</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FIP DISCOUNT 75%</Name>
+    <Code>FIR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>FIP Discount 75%</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GC COMMUNITY CARD</Name>
+    <Code>GCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Grand Central Community Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GC 16-25 RAILCARD</Name>
+    <Code>GCM</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Grand Central 16-25 Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GC F&amp;F RAILCARD</Name>
+    <Code>GCN</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Grand Central Family &amp; Friends Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GC SENIOR RAILCARD</Name>
+    <Code>GCO</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Grand Central Senior Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GAT STAFF DISCOUNT A</Name>
+    <Code>GEA</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Gatwick Staff Discount A</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GAT EX PARTNERS CARD</Name>
+    <Code>GEP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Gatwick Express Partners Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GAT STAFF DISCOUNT Q</Name>
+    <Code>GEQ</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Gatwick Staff Discount Q</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Group Discount</Name>
+    <Code>GRP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GROUPSAVE</Name>
+    <Code>GS3</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>GroupSave Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EC SMALL GROUP(STNS)</Name>
+    <Code>GSU</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Virgin Trains East Coast Small Group (stations)</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SMALL GROUP 3</Name>
+    <Code>GU3</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Small Group 3</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SMALL GROUP 4</Name>
+    <Code>GU4</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Small Group 4</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SMALL GROUP CH</Name>
+    <Code>GUC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Small Group Child</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GWR 5% CORPORATE</Name>
+    <Code>GWR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>GWR 5% Corporate Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>HUMBERSIDE 34</Name>
+    <Code>HCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>HUMBERSIDE 50</Name>
+    <Code>HCS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>HIGHLAND CONCESSION</Name>
+    <Code>HCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>HM Forces Railcard (MOD card)</Name>
+    <Code>HMF</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>HM Forces Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Heart Of Wales RC</Name>
+    <Code>HOW</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Heart of Wales Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Highland Railcard</Name>
+    <Code>HRC</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>InterRail</Name>
+    <Code>IRD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ISLANDER CARD</Name>
+    <Code>IWC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ISLAND RESIDENT CARD</Name>
+    <Code>IWR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>JCP DISCOUNT CARD</Name>
+    <Code>JCP</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Jobcentre Plus Discount Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>JOBSEEKERS TPE DIS</Name>
+    <Code>JSD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Jobseekers TPE Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>JUVENILE</Name>
+    <Code>JUV</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Juvenile Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NOTT KANGAROO 50%</Name>
+    <Code>KAN</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>KENT SCHOLARS CARD</Name>
+    <Code>KSC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>KENT SCHOLAR JUNIOR</Name>
+    <Code>KSJ</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NE LINCS CONC 34</Name>
+    <Code>L34</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>NE Lincs Concession 34</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NE LINCS CONC 50</Name>
+    <Code>L50</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>NE Lincs Concession 50</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>LEICESTER CONCESSION</Name>
+    <Code>LCS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>LOTHIAN CONCESSION</Name>
+    <Code>LCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>LOYALTY CARD</Name>
+    <Code>LOY</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>16+ OYSTER PHOTOCARD</Name>
+    <Code>LUR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>16+ Oyster Photocard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>18+ STUDNT OYST PHCD</Name>
+    <Code>LUS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>18+ Oyster Photocard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Manchester Concession</Name>
+    <Code>MCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>MEDWAY SCHOLAR CARD</Name>
+    <Code>MED</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>MERSEYRAIL GROUPSAVE</Name>
+    <Code>MGP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Merseyrail GroupSave</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WARRANT</Name>
+    <Code>MOD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Warrant</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>MARSTON VALE SENIOR</Name>
+    <Code>MVS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Y-P MIDLAND BANK 4YR</Name>
+    <Code>MYP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NOTTS CONCESSION</Name>
+    <Code>NCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NETWORK RAILCARD AGC</Name>
+    <Code>NCP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Network Railcard Partners Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>New Deal Photocard Scotland</Name>
+    <Code>NDJ</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NETWORK RAILCARD</Name>
+    <Code>NEW</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Network Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Annual Gold (Network Gold / South East)</Name>
+    <Code>NGC</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Annual Gold Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NSC SEASON PASS</Name>
+    <Code>NSC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SMART NTRAIN MTH DD</Name>
+    <Code>NST</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Smart NTrain Month Direct Debit</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>NUS EXTRA</Name>
+    <Code>NUS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>NUS Extra</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>ONLINE CLUB 50</Name>
+    <Code>OC5</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Online Club 50</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>PembrokeRailcard</Name>
+    <Code>PBR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Pembroke Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>PROMO DISCOUNT 40</Name>
+    <Code>PD4</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Promo Discount 50</Name>
+    <Code>PD5</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Retired Staff Travel Card</Name>
+    <Code>PRD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>STAFF TRAVEL CARD</Name>
+    <Code>PRV</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Staff Travel Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>REP TTOGETHER R/CARD</Name>
+    <Code>R2T</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Replacement Two Together Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>UNICARD KERNOW</Name>
+    <Code>RCK</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Unicard Kernow</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>RAIL EUROP SENIOR</Name>
+    <Code>RES</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>REP FAM&amp;FRIENDS RCD</Name>
+    <Code>RFF</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Replacement Family &amp; Friends Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>REP NETWORK RAILCARD</Name>
+    <Code>RNW</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Replacement Network Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GLASGOW CONF DISC</Name>
+    <Code>ROV</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Glasgow Conference Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>REP SENIOR RAILCARD</Name>
+    <Code>RSN</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Replacement Senior Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>RAILTRACK EMPLOYEES</Name>
+    <Code>RTE</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>REP 16-25 RAILCARD</Name>
+    <Code>RYP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Replacement 16-25 Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>365 SEASON DISC</Name>
+    <Code>S34</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>EC SSS 50%</Name>
+    <Code>S50</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>EC SSS 50%</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>COUNTY DISCOUNT CODE</Name>
+    <Code>SCC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SHIPLEY COLLEGE 25%</Name>
+    <Code>SCD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Shipley College 25%</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Strathclyde Concessionary</Name>
+    <Code>SCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SPTE FERRY CARD</Name>
+    <Code>SFC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>GROUP DISCOUNT TPE</Name>
+    <Code>SGB</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Group Discount TPE</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SMALL GROUP DISCOUNT</Name>
+    <Code>SGU</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Small Group Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SOUTHERN ADVENTURE</Name>
+    <Code>SNA</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Senior Railcard (OAP card)</Name>
+    <Code>SRN</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>Senior Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SENIOR RAILCARD AGC</Name>
+    <Code>SRO</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Senior Railcard (Annual Gold Card)</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SENIOR SAVE RAILCARD</Name>
+    <Code>SRS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>false</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SCOTTISH YOUTH RCD</Name>
+    <Code>SRY</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Scottish Youth Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>STRATHCLYDE SCHOOLS</Name>
+    <Code>SSD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SYPTE STUDENT PASS</Name>
+    <Code>SSP</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>FUNTRACKERS RAILCARD</Name>
+    <Code>STC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SWINDON TOWN FC DISC</Name>
+    <Code>STF</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SEASON LOYALTY DISC</Name>
+    <Code>STL</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Season Loyalty Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SUFFOLK RAILCARD</Name>
+    <Code>SUR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Suffolk Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SWT EASIT DISCOUNT</Name>
+    <Code>SWD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>SWT Easit Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SY CONCESS DISABLED</Name>
+    <Code>SYD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>SY Concession Disabled</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>SY CONCESSION SENIOR</Name>
+    <Code>SYS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>SY Concession Senior</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Travel Agent Discount</Name>
+    <Code>TAD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TAMWORTH BC CONCESSN</Name>
+    <Code>TBC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TAYSIDE CONCESSION</Name>
+    <Code>TCT</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TPE 10</Name>
+    <Code>TPE</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>TPE 10</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>TRIBE</Name>
+    <Code>TRB</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Tribe</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>UNDER 25 ADVANCE</Name>
+    <Code>UTF</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Under 25 Advance</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Virgin Charity Worker</Name>
+    <Code>VCW</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>VL STUDENT CARD</Name>
+    <Code>VLC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Valley Lines Student Card</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Valley Lines Senior</Name>
+    <Code>VLS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>VM 10% OFF</Name>
+    <Code>VMR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>VIRGIN FOR OMEGA</Name>
+    <Code>VOR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>VIRGIN 50% PROMO DIS</Name>
+    <Code>VPD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 20</Name>
+    <Code>W20</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>21% WEB DISC</Name>
+    <Code>W21</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 34</Name>
+    <Code>W34</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 40</Name>
+    <Code>W40</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 45</Name>
+    <Code>W45</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Discount 45</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 47</Name>
+    <Code>W47</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Discount 47</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 50</Name>
+    <Code>W50</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 52</Name>
+    <Code>W52</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Discount 52</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 55</Name>
+    <Code>W55</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 60</Name>
+    <Code>W60</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 65</Name>
+    <Code>W65</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Discount 65</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 70</Name>
+    <Code>W70</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Discount 70</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>DISCOUNT 75</Name>
+    <Code>W75</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WELSH ASSEMBLY GOVT</Name>
+    <Code>WAG</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Welsh Assembly Government Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WYCOMBE DISTRICT</Name>
+    <Code>WDC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>Wycombe District Council Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>11% WEB DISC</Name>
+    <Code>WEB</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WG CONC BUS PASS</Name>
+    <Code>WGC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>WG Concession Bus Pass</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WEST HIGHLAND RAILCD</Name>
+    <Code>WHC</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>West Highland Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WYPTE MetroRover Permit</Name>
+    <Code>WMR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WYPTE Metro Permit S</Name>
+    <Code>WMS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WY CONCESS DISABLED</Name>
+    <Code>WYD</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>WY Concession Disabled</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>WY CONCESSION SENIOR</Name>
+    <Code>WYS</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>WY Concession Senior</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>YHA MEMBER</Name>
+    <Code>YHA</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>16-25 RAILCARD</Name>
+    <Code>YNG</Code>
+    <OJPEnabled>true</OJPEnabled>
+    <OJPDisplayName>16-25 Railcard</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>16-25 RAILCARD AGC</Name>
+    <Code>YNH</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>16-25 Railcard (Annual Gold Card)</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>16-18 TPE DISCOUNT</Name>
+    <Code>YNR</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName>16-18 TPE Discount</OJPDisplayName>
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>true</UnattendedTIS>
+  </Railcard>
+  <Railcard>
+    <Name>Britrail Youth</Name>
+    <Code>YTH</Code>
+    <OJPEnabled>false</OJPEnabled>
+    <OJPDisplayName />
+    <RSPDisplayName />
+    <AttendedTIS>true</AttendedTIS>
+    <UnattendedTIS>false</UnattendedTIS>
+  </Railcard>
+</RailcardsReferenceData>
